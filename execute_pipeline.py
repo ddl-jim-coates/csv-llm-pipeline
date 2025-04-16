@@ -6,7 +6,7 @@ from mlflow.deployments import get_deploy_client
 
 # Define input and output directories
 INPUT_DIR = "/mnt/data/csv-llm-pipeline"
-OUTPUT_DIR = "/mnt/data/csv-output"
+OUTPUT_DIR = "/mnt/data/output_llm_pipeline"
 
 def calculate_average_with_llm(numbers):
     """
