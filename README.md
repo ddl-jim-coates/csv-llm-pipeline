@@ -60,7 +60,5 @@ This project serves as a demonstration of basic Domino Data Lab platform capabil
 
 ## Fork This Project
 If you'd like to fork this code and build on it, you can find the repository at:
-[https://github.com/yourusername/csv-llm-pipeline](https://github.com/yourusername/csv-llm-pipeline)
+[https://github.com/ddl-jim-coates/csv-llm-pipeline](https://github.com/ddl-jim-coates/csv-llm-pipeline)
 
-## License
-[Specify your license here]
